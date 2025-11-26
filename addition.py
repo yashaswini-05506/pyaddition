@@ -1,7 +1,7 @@
 def add(a, b):
     return a + b
 
-if_name_ == "_main_":
+if __name__ == "__main__":
 x = 10
 y = 20
 print("sum:",add(x,y))
